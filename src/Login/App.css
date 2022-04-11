@@ -1,0 +1,10 @@
+body{
+    background: rgb(250, 250, 250);
+    background: linear-gradient(to right, #909a9c, #82a7b1);
+}
+
+.bg{
+    background-image: url(1.jpg);
+    background-position: center center;
+    background-size: cover;
+}
